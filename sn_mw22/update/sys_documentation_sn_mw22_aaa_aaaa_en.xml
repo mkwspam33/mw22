@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="aaaa" label="AAAA" language="en" table="sn_mw22_aaa">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>aaaa</element>
+            <help/>
+            <hint/>
+            <label>AAAA</label>
+            <language>en</language>
+            <name>sn_mw22_aaa</name>
+            <plural>AAAAs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+            <sys_created_on>2019-09-24 18:24:41</sys_created_on>
+            <sys_id>f049ed92db0400105dc970f5bf9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>AAAA</sys_name>
+            <sys_package display_value="mw22" source="sn_mw22">3b386952db0400105dc970f5bf96197d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="mw22">3b386952db0400105dc970f5bf96197d</sys_scope>
+            <sys_update_name>sys_documentation_sn_mw22_aaa_aaaa_en</sys_update_name>
+            <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+            <sys_updated_on>2019-09-24 18:24:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

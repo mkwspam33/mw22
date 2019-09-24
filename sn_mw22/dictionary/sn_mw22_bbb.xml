@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Bbb" max_length="40" name="sn_mw22_bbb" type="collection">
+        <element label="BBBB" max_length="40" name="bbbb" type="string"/>
+    </element>
+</database>

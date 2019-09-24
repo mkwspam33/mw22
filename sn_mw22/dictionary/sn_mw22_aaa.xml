@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="Aaa" max_length="40" name="sn_mw22_aaa" type="collection">
+        <element label="AAAA" max_length="40" name="aaaa" type="string"/>
+    </element>
+</database>
